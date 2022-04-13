@@ -8,7 +8,7 @@ const Player = () => {
         boxShadow={'lg'}
         backgroundColor="light"
         minHeight="180px"
-        borderRadius="12px"
+        borderRadius="20px"
         padding="1rem"
       >
         Player
